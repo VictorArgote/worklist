@@ -451,6 +451,13 @@ input[type=password]:active, input[type=password]:hover, input[type=password]:fo
     padding-left: 10px;
 }
 
+@media (max-width: 750px) {
+    .skills {
+        padding-top: 10px;
+        padding-left: 0;
+    }
+}
+
 .project-label {
     float: left;
     font-weight: bold;
