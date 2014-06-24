@@ -455,6 +455,7 @@ input[type=password]:active, input[type=password]:hover, input[type=password]:fo
     float: left;
     font-weight: bold;
     margin-right: 3px;
+    margin-left: 10px;
 }
 
 .sandbox-container {
